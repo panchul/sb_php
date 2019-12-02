@@ -1,2 +1,5 @@
-# sb_php
-PHP sandbox
+# PHP sandbox
+
+Random snippets and templates.
+
+
